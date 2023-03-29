@@ -1,1 +1,2 @@
-this is python classes and objects
+high level programming by using python 
+programming
